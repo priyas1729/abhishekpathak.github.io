@@ -99,7 +99,7 @@ width: 1000px;
 #namebox {
 	text-align:left;
 	float: right;
-	margin : 20px 26px;
+	margin : 20px 30px;
 }
 
 #namebox name {
@@ -119,18 +119,18 @@ width: 1000px;
 
 #extrabox p {
 	line-height: 0.5;
-	font-size:8.0pt;
+	font-size:9.0pt;
 	color: #666666;
 }
 
 #extrabox a {
-	font-size:8.0pt;
+	font-size:9.0pt;
 	color: #666666;
 	text-decoration: none;
 }
 
 #extrabox a:visited{
-	font-size:8.0pt;
+	font-size:9.0pt;
 	color: #666666;
 }
 
